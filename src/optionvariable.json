@@ -1,0 +1,9 @@
+[
+  { "label": "Individual", "options":[{"value":"hv108","label":"Educational attainment, completed years of education"},{"value":"Education","label":"Educational attainment (share)"},{"value":"hv243a","label":"Has a mobile telephone"},{"value":"hv247","label":"Owns a bank account"}]
+  
+  },
+
+  { "label": "Household", "options":[{"value":"hv206","label":"Has electricity"},{"value":"hv207","label":"Owns a radio"},{"value":"hv208","label":"Owns a television"},{"value":"hv209","label":"Owns a refrigerator"},{"value":"hv210","label":"Owns a bicycle"},{"value":"hv211","label":"Owns a motorcycle/scooter"},{"value":"hv212","label":"Owns a car/truck"}]
+  
+  }
+]

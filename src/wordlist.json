@@ -1,0 +1,1378 @@
+[
+  {
+    "name": "Korea",
+    "freq": 54
+  },
+  {
+    "name": "Air",
+    "freq": 40
+  },
+  {
+    "name": "Waste",
+    "freq": 37
+  },
+  {
+    "name": "Water",
+    "freq": 35
+  },
+  {
+    "name": "with",
+    "freq": 34
+  },
+  {
+    "name": "Global",
+    "freq": 34
+  },
+  {
+    "name": "Management",
+    "freq": 33
+  },
+  {
+    "name": "Smart",
+    "freq": 30
+  },
+  {
+    "name": "Technology",
+    "freq": 29
+  },
+  {
+    "name": "Data",
+    "freq": 29
+  },
+  {
+    "name": "Climate",
+    "freq": 24
+  },
+  {
+    "name": "World",
+    "freq": 23
+  },
+  {
+    "name": "air",
+    "freq": 22
+  },
+  {
+    "name": "Energy",
+    "freq": 22
+  },
+  {
+    "name": "Pollution",
+    "freq": 22
+  },
+  {
+    "name": "Technologies",
+    "freq": 21
+  },
+  {
+    "name": "technology",
+    "freq": 21
+  },
+  {
+    "name": "pollution",
+    "freq": 21
+  },
+  {
+    "name": "AI",
+    "freq": 19
+  },
+  {
+    "name": "using",
+    "freq": 19
+  },
+  {
+    "name": "Forest",
+    "freq": 19
+  },
+  {
+    "name": "into",
+    "freq": 19
+  },
+  {
+    "name": "Green",
+    "freq": 18
+  },
+  {
+    "name": "Korean",
+    "freq": 17
+  },
+  {
+    "name": "System",
+    "freq": 17
+  },
+  {
+    "name": "waste",
+    "freq": 17
+  },
+  {
+    "name": "Ocean",
+    "freq": 16
+  },
+  {
+    "name": "Quality",
+    "freq": 16
+  },
+  {
+    "name": "What",
+    "freq": 16
+  },
+  {
+    "name": "Earth",
+    "freq": 16
+  },
+  {
+    "name": "City",
+    "freq": 15
+  },
+  {
+    "name": "water",
+    "freq": 15
+  },
+  {
+    "name": "Future",
+    "freq": 15
+  },
+  {
+    "name": "plastic",
+    "freq": 15
+  },
+  {
+    "name": "Environment",
+    "freq": 14
+  },
+  {
+    "name": "farmers",
+    "freq": 14
+  },
+  {
+    "name": "Project",
+    "freq": 13
+  },
+  {
+    "name": "Power",
+    "freq": 13
+  },
+  {
+    "name": "Monitoring",
+    "freq": 13
+  },
+  {
+    "name": "Economy",
+    "freq": 13
+  },
+  {
+    "name": "Institute",
+    "freq": 13
+  },
+  {
+    "name": "New",
+    "freq": 13
+  },
+  {
+    "name": "Carbon",
+    "freq": 13
+  },
+  {
+    "name": "system",
+    "freq": 12
+  },
+  {
+    "name": "Solar",
+    "freq": 12
+  },
+  {
+    "name": "Information",
+    "freq": 12
+  },
+  {
+    "name": "Plastic",
+    "freq": 12
+  },
+  {
+    "name": "South",
+    "freq": 11
+  },
+  {
+    "name": "Restoration",
+    "freq": 11
+  },
+  {
+    "name": "treatment",
+    "freq": 11
+  },
+  {
+    "name": "Floating",
+    "freq": 11
+  },
+  {
+    "name": "drones",
+    "freq": 11
+  },
+  {
+    "name": "data",
+    "freq": 11
+  },
+  {
+    "name": "power",
+    "freq": 11
+  },
+  {
+    "name": "COVID-19",
+    "freq": 11
+  },
+  {
+    "name": "Using",
+    "freq": 11
+  },
+  {
+    "name": "Plant",
+    "freq": 11
+  },
+  {
+    "name": "Landscape",
+    "freq": 11
+  },
+  {
+    "name": "quality",
+    "freq": 10
+  },
+  {
+    "name": "about",
+    "freq": 10
+  },
+  {
+    "name": "Big",
+    "freq": 10
+  },
+  {
+    "name": "Land",
+    "freq": 10
+  },
+  {
+    "name": "emissions",
+    "freq": 10
+  },
+  {
+    "name": "Biodiversity",
+    "freq": 10
+  },
+  {
+    "name": "Agriculture",
+    "freq": 9
+  },
+  {
+    "name": "Open",
+    "freq": 9
+  },
+  {
+    "name": "Lab",
+    "freq": 9
+  },
+  {
+    "name": "solar",
+    "freq": 9
+  },
+  {
+    "name": "International",
+    "freq": 9
+  },
+  {
+    "name": "climate",
+    "freq": 9
+  },
+  {
+    "name": "China",
+    "freq": 9
+  },
+  {
+    "name": "Coastal",
+    "freq": 9
+  },
+  {
+    "name": "Tangible",
+    "freq": 9
+  },
+  {
+    "name": "Blue",
+    "freq": 9
+  },
+  {
+    "name": "Sustainable",
+    "freq": 9
+  },
+  {
+    "name": "global",
+    "freq": 9
+  },
+  {
+    "name": "Innovation",
+    "freq": 8
+  },
+  {
+    "name": "Farm",
+    "freq": 8
+  },
+  {
+    "name": "wastewater",
+    "freq": 8
+  },
+  {
+    "name": "energy",
+    "freq": 8
+  },
+  {
+    "name": "monitoring",
+    "freq": 8
+  },
+  {
+    "name": "Clean",
+    "freq": 8
+  },
+  {
+    "name": "Science",
+    "freq": 8
+  },
+  {
+    "name": "Farming",
+    "freq": 8
+  },
+  {
+    "name": "India",
+    "freq": 8
+  },
+  {
+    "name": "plant",
+    "freq": 8
+  },
+  {
+    "name": "3D",
+    "freq": 8
+  },
+  {
+    "name": "Bank",
+    "freq": 8
+  },
+  {
+    "name": "help",
+    "freq": 8
+  },
+  {
+    "name": "National",
+    "freq": 7
+  },
+  {
+    "name": "Agency",
+    "freq": 7
+  },
+  {
+    "name": "Integrated",
+    "freq": 7
+  },
+  {
+    "name": "Fisheries",
+    "freq": 7
+  },
+  {
+    "name": "time",
+    "freq": 7
+  },
+  {
+    "name": "helping",
+    "freq": 7
+  },
+  {
+    "name": "Change",
+    "freq": 7
+  },
+  {
+    "name": "innovative",
+    "freq": 7
+  },
+  {
+    "name": "Growth",
+    "freq": 7
+  },
+  {
+    "name": "Marine",
+    "freq": 7
+  },
+  {
+    "name": "clean",
+    "freq": 7
+  },
+  {
+    "name": 2050,
+    "freq": 7
+  },
+  {
+    "name": "through",
+    "freq": 7
+  },
+  {
+    "name": "world",
+    "freq": 7
+  },
+  {
+    "name": "NASA",
+    "freq": 7
+  },
+  {
+    "name": "Free",
+    "freq": 7
+  },
+  {
+    "name": "illegal",
+    "freq": 7
+  },
+  {
+    "name": "Flood",
+    "freq": 7
+  },
+  {
+    "name": "cities",
+    "freq": 7
+  },
+  {
+    "name": "million",
+    "freq": 7
+  },
+  {
+    "name": "Interactive",
+    "freq": 7
+  },
+  {
+    "name": "Chesapeake",
+    "freq": 7
+  },
+  {
+    "name": "Bay",
+    "freq": 7
+  },
+  {
+    "name": "Development",
+    "freq": 6
+  },
+  {
+    "name": "Center",
+    "freq": 6
+  },
+  {
+    "name": "agriculture",
+    "freq": 6
+  },
+  {
+    "name": "Industry",
+    "freq": 6
+  },
+  {
+    "name": "management",
+    "freq": 6
+  },
+  {
+    "name": "Landfill",
+    "freq": 6
+  },
+  {
+    "name": "R&D",
+    "freq": 6
+  },
+  {
+    "name": "Environmental",
+    "freq": 6
+  },
+  {
+    "name": "solutions",
+    "freq": 6
+  },
+  {
+    "name": "autonomous",
+    "freq": 6
+  },
+  {
+    "name": "Corporation",
+    "freq": 6
+  },
+  {
+    "name": "Research",
+    "freq": 6
+  },
+  {
+    "name": "based",
+    "freq": 6
+  },
+  {
+    "name": "Action",
+    "freq": 6
+  },
+  {
+    "name": "Improving",
+    "freq": 6
+  },
+  {
+    "name": "project",
+    "freq": 6
+  },
+  {
+    "name": "intelligence",
+    "freq": 6
+  },
+  {
+    "name": "Control",
+    "freq": 6
+  },
+  {
+    "name": "Wastewater",
+    "freq": 6
+  },
+  {
+    "name": "Visualization",
+    "freq": 6
+  },
+  {
+    "name": "greenhouse",
+    "freq": 6
+  },
+  {
+    "name": "gas",
+    "freq": 6
+  },
+  {
+    "name": "Disruptive",
+    "freq": 6
+  },
+  {
+    "name": "against",
+    "freq": 6
+  },
+  {
+    "name": "Virtual",
+    "freq": 6
+  },
+  {
+    "name": "Explorer",
+    "freq": 6
+  },
+  {
+    "name": "mobile",
+    "freq": 6
+  },
+  {
+    "name": "Sea",
+    "freq": 6
+  },
+  {
+    "name": "Singapore",
+    "freq": 6
+  },
+  {
+    "name": "all",
+    "freq": 6
+  },
+  {
+    "name": "plastics",
+    "freq": 6
+  },
+  {
+    "name": "oceans",
+    "freq": 6
+  },
+  {
+    "name": "Initiative",
+    "freq": 6
+  },
+  {
+    "name": "About",
+    "freq": 6
+  },
+  {
+    "name": "Africa",
+    "freq": 6
+  },
+  {
+    "name": "circular",
+    "freq": 6
+  },
+  {
+    "name": "Cities",
+    "freq": 5
+  },
+  {
+    "name": "information",
+    "freq": 5
+  },
+  {
+    "name": "Rivers",
+    "freq": 5
+  },
+  {
+    "name": "Food",
+    "freq": 5
+  },
+  {
+    "name": "First",
+    "freq": 5
+  },
+  {
+    "name": "could",
+    "freq": 5
+  },
+  {
+    "name": "recovery",
+    "freq": 5
+  },
+  {
+    "name": "Planning",
+    "freq": 5
+  },
+  {
+    "name": "Evaluation",
+    "freq": 5
+  },
+  {
+    "name": "Service",
+    "freq": 5
+  },
+  {
+    "name": "up",
+    "freq": 5
+  },
+  {
+    "name": "Analysis",
+    "freq": 5
+  },
+  {
+    "name": "carbon",
+    "freq": 5
+  },
+  {
+    "name": "aquaculture",
+    "freq": 5
+  },
+  {
+    "name": "Groundwater",
+    "freq": 5
+  },
+  {
+    "name": "ICT",
+    "freq": 5
+  },
+  {
+    "name": "Geospatial",
+    "freq": 5
+  },
+  {
+    "name": "agricultural",
+    "freq": 5
+  },
+  {
+    "name": "its",
+    "freq": 5
+  },
+  {
+    "name": "Alliance",
+    "freq": 5
+  },
+  {
+    "name": "Robot",
+    "freq": 5
+  },
+  {
+    "name": "powered",
+    "freq": 5
+  },
+  {
+    "name": "Trash",
+    "freq": 5
+  },
+  {
+    "name": "Farmers",
+    "freq": 5
+  },
+  {
+    "name": "Prevention",
+    "freq": 5
+  },
+  {
+    "name": "Turning",
+    "freq": 5
+  },
+  {
+    "name": "In",
+    "freq": 5
+  },
+  {
+    "name": "most",
+    "freq": 5
+  },
+  {
+    "name": "tons",
+    "freq": 5
+  },
+  {
+    "name": "Algae",
+    "freq": 5
+  },
+  {
+    "name": "Facility",
+    "freq": 5
+  },
+  {
+    "name": "Tourism",
+    "freq": 5
+  },
+  {
+    "name": "Treatment",
+    "freq": 5
+  },
+  {
+    "name": "Health",
+    "freq": 5
+  },
+  {
+    "name": "Can",
+    "freq": 5
+  },
+  {
+    "name": "be",
+    "freq": 5
+  },
+  {
+    "name": "Mangrove",
+    "freq": 5
+  },
+  {
+    "name": "forest",
+    "freq": 5
+  },
+  {
+    "name": "landscape",
+    "freq": 5
+  },
+  {
+    "name": "species",
+    "freq": 5
+  },
+  {
+    "name": "Chinese",
+    "freq": 5
+  },
+  {
+    "name": "initiative",
+    "freq": 5
+  },
+  {
+    "name": "Digital",
+    "freq": 5
+  },
+  {
+    "name": "wildlife",
+    "freq": 5
+  },
+  {
+    "name": "application",
+    "freq": 5
+  },
+  {
+    "name": "Plantix",
+    "freq": 5
+  },
+  {
+    "name": "floating",
+    "freq": 5
+  },
+  {
+    "name": "it",
+    "freq": 5
+  },
+  {
+    "name": "Oceans",
+    "freq": 5
+  },
+  {
+    "name": "Resilience",
+    "freq": 5
+  },
+  {
+    "name": "sustainable",
+    "freq": 5
+  },
+  {
+    "name": "Over",
+    "freq": 5
+  },
+  {
+    "name": "billion",
+    "freq": 5
+  },
+  {
+    "name": "From",
+    "freq": 5
+  },
+  {
+    "name": "Space",
+    "freq": 5
+  },
+  {
+    "name": "You",
+    "freq": 5
+  },
+  {
+    "name": "year",
+    "freq": 5
+  },
+  {
+    "name": "trillion",
+    "freq": 5
+  },
+  {
+    "name": "economy",
+    "freq": 5
+  },
+  {
+    "name": "future",
+    "freq": 5
+  },
+  {
+    "name": "Map",
+    "freq": 5
+  },
+  {
+    "name": "Platform",
+    "freq": 5
+  },
+  {
+    "name": "app",
+    "freq": 5
+  },
+  {
+    "name": "Masdar",
+    "freq": 5
+  },
+  {
+    "name": "Meat",
+    "freq": 5
+  },
+  {
+    "name": "Tracking",
+    "freq": 4
+  },
+  {
+    "name": "one",
+    "freq": 4
+  },
+  {
+    "name": "Vertical",
+    "freq": 4
+  },
+  {
+    "name": "Resource",
+    "freq": 4
+  },
+  {
+    "name": "Infrastructure",
+    "freq": 4
+  },
+  {
+    "name": "Efficient",
+    "freq": 4
+  },
+  {
+    "name": "Solid",
+    "freq": 4
+  },
+  {
+    "name": "Seoul",
+    "freq": 4
+  },
+  {
+    "name": "smart",
+    "freq": 4
+  },
+  {
+    "name": "Policy",
+    "freq": 4
+  },
+  {
+    "name": "marine",
+    "freq": 4
+  },
+  {
+    "name": "Forestry",
+    "freq": 4
+  },
+  {
+    "name": "Underwater",
+    "freq": 4
+  },
+  {
+    "name": "Rural",
+    "freq": 4
+  },
+  {
+    "name": "S.",
+    "freq": 4
+  },
+  {
+    "name": "Use",
+    "freq": 4
+  },
+  {
+    "name": "CO2",
+    "freq": 4
+  },
+  {
+    "name": "capture",
+    "freq": 4
+  },
+  {
+    "name": "transport",
+    "freq": 4
+  },
+  {
+    "name": "seafood",
+    "freq": 4
+  },
+  {
+    "name": "Why",
+    "freq": 4
+  },
+  {
+    "name": "Ministry",
+    "freq": 4
+  },
+  {
+    "name": "Emerging",
+    "freq": 4
+  },
+  {
+    "name": "artificial",
+    "freq": 4
+  },
+  {
+    "name": "Nature",
+    "freq": 4
+  },
+  {
+    "name": "Solution",
+    "freq": 4
+  },
+  {
+    "name": "KAIST",
+    "freq": 4
+  },
+  {
+    "name": "ships",
+    "freq": 4
+  },
+  {
+    "name": "facts",
+    "freq": 4
+  },
+  {
+    "name": "compacting",
+    "freq": 4
+  },
+  {
+    "name": "bins",
+    "freq": 4
+  },
+  {
+    "name": "fight",
+    "freq": 4
+  },
+  {
+    "name": "environmental",
+    "freq": 4
+  },
+  {
+    "name": "With",
+    "freq": 4
+  },
+  {
+    "name": "Sweden",
+    "freq": 4
+  },
+  {
+    "name": "farming",
+    "freq": 4
+  },
+  {
+    "name": "Delhi",
+    "freq": 4
+  },
+  {
+    "name": "city",
+    "freq": 4
+  },
+  {
+    "name": "stubble",
+    "freq": 4
+  },
+  {
+    "name": "Happy",
+    "freq": 4
+  },
+  {
+    "name": "Seeder",
+    "freq": 4
+  },
+  {
+    "name": "IoT",
+    "freq": 4
+  },
+  {
+    "name": "India?????s",
+    "freq": 4
+  },
+  {
+    "name": "India's",
+    "freq": 4
+  },
+  {
+    "name": "Small",
+    "freq": 4
+  },
+  {
+    "name": "fish",
+    "freq": 4
+  },
+  {
+    "name": "Clearing",
+    "freq": 4
+  },
+  {
+    "name": "Lake",
+    "freq": 4
+  },
+  {
+    "name": "over",
+    "freq": 4
+  },
+  {
+    "name": "Observatory",
+    "freq": 4
+  },
+  {
+    "name": "modeling",
+    "freq": 4
+  },
+  {
+    "name": "Urban",
+    "freq": 4
+  },
+  {
+    "name": "monitor",
+    "freq": 4
+  },
+  {
+    "name": "Atlas",
+    "freq": 4
+  },
+  {
+    "name": "Drones",
+    "freq": 4
+  },
+  {
+    "name": "three",
+    "freq": 4
+  },
+  {
+    "name": "Ecosystem",
+    "freq": 4
+  },
+  {
+    "name": "Finance",
+    "freq": 4
+  },
+  {
+    "name": "deforestation",
+    "freq": 4
+  },
+  {
+    "name": "software",
+    "freq": 4
+  },
+  {
+    "name": "wind",
+    "freq": 4
+  },
+  {
+    "name": "Bathymetry",
+    "freq": 4
+  },
+  {
+    "name": "Drone",
+    "freq": 4
+  },
+  {
+    "name": "flooding",
+    "freq": 4
+  },
+  {
+    "name": "real",
+    "freq": 4
+  },
+  {
+    "name": "Level",
+    "freq": 4
+  },
+  {
+    "name": "Viewer",
+    "freq": 4
+  },
+  {
+    "name": "people",
+    "freq": 4
+  },
+  {
+    "name": "estimated",
+    "freq": 4
+  },
+  {
+    "name": "technologies",
+    "freq": 4
+  },
+  {
+    "name": "every",
+    "freq": 4
+  },
+  {
+    "name": "our",
+    "freq": 4
+  },
+  {
+    "name": "Great",
+    "freq": 4
+  },
+  {
+    "name": "Planet",
+    "freq": 4
+  },
+  {
+    "name": "way",
+    "freq": 4
+  },
+  {
+    "name": "ocean",
+    "freq": 4
+  },
+  {
+    "name": "Social",
+    "freq": 4
+  },
+  {
+    "name": "To",
+    "freq": 4
+  },
+  {
+    "name": "GDP",
+    "freq": 4
+  },
+  {
+    "name": "transform",
+    "freq": 4
+  },
+  {
+    "name": "health",
+    "freq": 4
+  },
+  {
+    "name": "More",
+    "freq": 4
+  },
+  {
+    "name": "rise",
+    "freq": 4
+  },
+  {
+    "name": "Watershed",
+    "freq": 4
+  },
+  {
+    "name": "Wildlife",
+    "freq": 4
+  },
+  {
+    "name": "Observation",
+    "freq": 4
+  },
+  {
+    "name": "App",
+    "freq": 4
+  },
+  {
+    "name": "trees",
+    "freq": 4
+  },
+  {
+    "name": "will",
+    "freq": 4
+  },
+  {
+    "name": "digital",
+    "freq": 4
+  },
+  {
+    "name": "Portal",
+    "freq": 4
+  },
+  {
+    "name": "Google",
+    "freq": 4
+  },
+  {
+    "name": "R",
+    "freq": 4
+  },
+  {
+    "name": "Climate-Smart",
+    "freq": 4
+  },
+  {
+    "name": "biodegradable",
+    "freq": 4
+  },
+  {
+    "name": "industry",
+    "freq": 3
+  },
+  {
+    "name": "Safety",
+    "freq": 3
+  },
+  {
+    "name": "Promotion",
+    "freq": 3
+  },
+  {
+    "name": "Introduction",
+    "freq": 3
+  },
+  {
+    "name": "Planty",
+    "freq": 3
+  },
+  {
+    "name": "Cube:",
+    "freq": 3
+  },
+  {
+    "name": "Modular",
+    "freq": 3
+  },
+  {
+    "name": "Site",
+    "freq": 3
+  },
+  {
+    "name": "growth",
+    "freq": 3
+  },
+  {
+    "name": "resource",
+    "freq": 3
+  },
+  {
+    "name": "Forecasting",
+    "freq": 3
+  },
+  {
+    "name": "Seoul's",
+    "freq": 3
+  },
+  {
+    "name": "biogas",
+    "freq": 3
+  },
+  {
+    "name": "Case",
+    "freq": 3
+  },
+  {
+    "name": "Study",
+    "freq": 3
+  },
+  {
+    "name": "Report",
+    "freq": 3
+  },
+  {
+    "name": "Now",
+    "freq": 3
+  },
+  {
+    "name": "KT",
+    "freq": 3
+  },
+  {
+    "name": "satellite",
+    "freq": 3
+  },
+  {
+    "name": "fishing",
+    "freq": 3
+  },
+  {
+    "name": "Based",
+    "freq": 3
+  },
+  {
+    "name": "Design",
+    "freq": 3
+  },
+  {
+    "name": "innovation",
+    "freq": 3
+  },
+  {
+    "name": "Renewable",
+    "freq": 3
+  },
+  {
+    "name": "Capture",
+    "freq": 3
+  },
+  {
+    "name": "Transport",
+    "freq": 3
+  },
+  {
+    "name": "Scientists",
+    "freq": 3
+  },
+  {
+    "name": "Greenhouse",
+    "freq": 3
+  },
+  {
+    "name": "growing",
+    "freq": 3
+  },
+  {
+    "name": "Building",
+    "freq": 3
+  },
+  {
+    "name": "Fish",
+    "freq": 3
+  },
+  {
+    "name": "Manna",
+    "freq": 3
+  },
+  {
+    "name": "resources",
+    "freq": 3
+  },
+  {
+    "name": "COVID-19:",
+    "freq": 3
+  },
+  {
+    "name": "Trust",
+    "freq": 3
+  },
+  {
+    "name": "Fund",
+    "freq": 3
+  }
+]

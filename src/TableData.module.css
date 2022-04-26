@@ -1,0 +1,51 @@
+.TableHeader {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.button {
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 30px;
+  text-align: center;
+  display: inline-block;
+  letter-spacing: 0.7px;
+  cursor: pointer;
+  background-color: #c3533e;
+  border: 2px solid #c3533e;
+  color: white;
+  transition: all 0.19s linear;
+  outline: none;
+}
+
+.button:hover {
+  color: #c3533e;
+  background-color: transparent;
+  transition: all 0.19s linear;
+  outline: none;
+}
+
+.TableSearch {
+  max-width: 50%;
+  min-width: 400px;
+  flex: 1;
+}
+
+@media screen and (max-width: 768px) {
+  .TableHeader {
+    -webkit-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+  .TableSearch {
+    max-width: 100%;
+    min-width: 100%;
+  }
+  .button {
+    margin-bottom: 15px;
+  }
+}
