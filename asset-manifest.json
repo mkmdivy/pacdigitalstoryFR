@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pacdigitalstoryFR/static/css/main.a5d2e647.chunk.css",
+    "main.js": "/pacdigitalstoryFR/static/js/main.e8c5afb3.chunk.js",
+    "main.js.map": "/pacdigitalstoryFR/static/js/main.e8c5afb3.chunk.js.map",
+    "runtime-main.js": "/pacdigitalstoryFR/static/js/runtime-main.fbb23dab.js",
+    "runtime-main.js.map": "/pacdigitalstoryFR/static/js/runtime-main.fbb23dab.js.map",
+    "static/js/2.b947e5f0.chunk.js": "/pacdigitalstoryFR/static/js/2.b947e5f0.chunk.js",
+    "static/js/2.b947e5f0.chunk.js.map": "/pacdigitalstoryFR/static/js/2.b947e5f0.chunk.js.map",
+    "index.html": "/pacdigitalstoryFR/index.html",
+    "precache-manifest.c12d34d5b107fe5db4fafcb07071a567.js": "/pacdigitalstoryFR/precache-manifest.c12d34d5b107fe5db4fafcb07071a567.js",
+    "service-worker.js": "/pacdigitalstoryFR/service-worker.js",
+    "static/css/main.a5d2e647.chunk.css.map": "/pacdigitalstoryFR/static/css/main.a5d2e647.chunk.css.map",
+    "static/js/2.b947e5f0.chunk.js.LICENSE.txt": "/pacdigitalstoryFR/static/js/2.b947e5f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbb23dab.js",
+    "static/js/2.b947e5f0.chunk.js",
+    "static/css/main.a5d2e647.chunk.css",
+    "static/js/main.e8c5afb3.chunk.js"
+  ]
+}
