@@ -1,9 +1,9 @@
 [
-  { "label": "Individual", "options":[{"value":"hv108","label":"Educational attainment, completed years of education"},{"value":"Education","label":"Educational attainment (share)"},{"value":"hv243a","label":"Has a mobile telephone"},{"value":"hv247","label":"Owns a bank account"}]
+  { "label": "Individu", "options":[{"value":"hv108","label":"Niveau d’éducation. Nombre médian d’années d’instruction"},{"value":"Education","label":"Niveau d’éducation (part)"},{"value":"hv243a","label":"Possède un téléphone portable"},{"value":"hv247","label":"Possède un compte bancaire "}]
   
   },
 
-  { "label": "Household", "options":[{"value":"hv206","label":"Has electricity"},{"value":"hv207","label":"Owns a radio"},{"value":"hv208","label":"Owns a television"},{"value":"hv209","label":"Owns a refrigerator"},{"value":"hv210","label":"Owns a bicycle"},{"value":"hv211","label":"Owns a motorcycle/scooter"},{"value":"hv212","label":"Owns a car/truck"}]
+  { "label": "Ménage", "options":[{"value":"hv206","label":"A accès à l’électricité"},{"value":"hv207","label":"Possède une radio"},{"value":"hv208","label":"Possède une  télévision"},{"value":"hv209","label":"Possède un réfrigérateur"},{"value":"hv210","label":"Possède un vélo"},{"value":"hv211","label":"Possède une motocyclette/scooter"},{"value":"hv212","label":"Possède une voiture/camion"}]
   
   }
 ]

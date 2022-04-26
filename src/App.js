@@ -42,14 +42,14 @@ const handleDownload = useCallback(async () => {
 const queryoption =[]
 
 
-const queryparse = location.search===""?  "Africa 2000-2020" : queryString.parse(location.search).country 
+const queryparse = location.search===""?  "Afrique 2000-2020" : queryString.parse(location.search).country 
 typeof queryparse==='string'? queryoption.push({value:queryparse,label:queryparse}) : queryparse.map(e => queryoption.push({value:e,label:e}))  
 const queryparsevar = location.search===""?  'hv108' : queryString.parse(location.search).type
 
 
 const queryoptionvar ={value:queryparsevar,label:optionsvariable.map(e=>e.value===queryparsevar? e.label : null)}
 
-const locale = "en"
+const locale = "fr"
 
 
 const colorBasket = [
@@ -72,7 +72,7 @@ const colorBasket = [
 
 
 const [selectedOption, setSelectedOption] = useState([{value: 'Angola', label: 'Angola'}]);
-const [selectedOptionvar, setSelectedOptionvar] = useState({value: 'hv108', label: 'Education completed in single years'});
+const [selectedOptionvar, setSelectedOptionvar] = useState({value: 'hv108', label: 'Niveau d’éducation. Nombre médian d’années d’instruction '});
 const [selectedType, setSelectedType] = useState('all');
 
 const disableList = {
@@ -102,7 +102,7 @@ queryoption.map(d=>countrylist.push(d.value))
 
 
 
-const filteredData = data.filter(d => countrylist.includes(d.EN) && d.type === selectedType)
+const filteredData = data.filter(d => countrylist.includes(d.FR) && d.type === selectedType)
 const selectedData = [
   {category:0,label:'Rural', samplesize:0, citysize:0},
   {category:10,label:'10 000 - 50 000', samplesize:0, citysize:0},
@@ -119,26 +119,26 @@ filteredData.map(d=>
       eduGroup.map(f => 
         e.category === d.category?               
         selectedType === 'all' ? 
-          e[d.EN+f]=d[f] :
+          e[d.FR+f]=d[f] :
           selectedType === 'sex'? 
             d.hv219 === 'male'? 
-              e[d.EN+"_male"+f]=d[f] :  
-            e[d.EN+"_female"+f]=d[f] :         
+              e[d.FR+"_male"+f]=d[f] :  
+            e[d.FR+"_female"+f]=d[f] :         
             d.AgeCategory === 0? 
-              e[d.EN+"_young"+f]=d[f] : 
-              e[d.EN+"_old"+f]=d[f] :
+              e[d.FR+"_young"+f]=d[f] : 
+              e[d.FR+"_old"+f]=d[f] :
       null                     
         ) :
     e.category === d.category?       
       selectedType === 'all' ? 
-        e[d.EN]=d[SelectedVariable] :
+        e[d.FR]=d[SelectedVariable] :
         selectedType === 'sex'? 
           d.hv219 === 'male'? 
-            e[d.EN+"_male"]=d[SelectedVariable] :  
-          e[d.EN+"_female"]=d[SelectedVariable] :         
+            e[d.FR+"_male"]=d[SelectedVariable] :  
+          e[d.FR+"_female"]=d[SelectedVariable] :         
           d.AgeCategory === 0? 
-            e[d.EN+"_young"]=d[SelectedVariable] : 
-            e[d.EN+"_old"]=d[SelectedVariable] :
+            e[d.FR+"_young"]=d[SelectedVariable] : 
+            e[d.FR+"_old"]=d[SelectedVariable] :
     null 
   
     )
@@ -249,7 +249,7 @@ const renderTooltip = (props) => {
   if (props.active && props.payload !== null && props.payload[0] !== null) {
     let payload = props.payload[0].payload;
     let tooltip = null;    
-          tooltip = selectedOptionvar.label==='Education completed in single years'? (
+          tooltip = selectedOptionvar.value==='hv108'? (
             <div className={classes.Tooltip}>            
               {props.payload.map((i, idx) => (
                 <p
@@ -260,7 +260,7 @@ const renderTooltip = (props) => {
                     marginRight: "10px",
                   }}
                 >
-                  {i.dataKey}: {Math.round(i.value * 100) / 100} years
+                  {i.dataKey}: {Math.round(i.value * 100) / 100} ans
                 </p>
               ))}
             </div>
@@ -390,13 +390,13 @@ let renderLineChart = (
 let buttonGroup = (
   <div className={classes.buttonGroup}>
     <div className={classes.datagroup}>
-      <button className={selectedType === 'all'? classes.buttonActive : classes.button} onClick={() => handleChangeType('all',setSelectedType,history,queryparse,queryparsevar)}>All</button>
-      <button className={selectedType === 'sex'? classes.buttonActive : classes.button} onClick={() => handleChangeType('sex',setSelectedType,history,queryparse,queryparsevar)}>Male/Female</button>
-      <button className={selectedType === 'age'? classes.buttonActive : classes.button} onClick={() => handleChangeType('age',setSelectedType,history,queryparse,queryparsevar)}>Young/Old</button>
+      <button className={selectedType === 'all'? classes.buttonActive : classes.button} onClick={() => handleChangeType('all',setSelectedType,history,queryparse,queryparsevar)}>Ensemble</button>
+      <button className={selectedType === 'sex'? classes.buttonActive : classes.button} onClick={() => handleChangeType('sex',setSelectedType,history,queryparse,queryparsevar)}>Homme/Femme </button>
+      <button className={selectedType === 'age'? classes.buttonActive : classes.button} onClick={() => handleChangeType('age',setSelectedType,history,queryparse,queryparsevar)}>Jeune/Vieux</button>
     </div>
     <div className={classes.socialgroup}>
       <TwitterShareButton
-        url={"https://mkmdivy.github.io/pacdigitalstory/"+location.search}
+        url={"https://mkmdivy.github.io/pacdigitalstoryFR/"+location.search}
         title={"The Economic Power of Africa's cities \n" + selectedOptionvar.label + ":" + queryparse.toString() + "\n" + "Explore more here:"}
         className="Demo__some-network__share-button">
         <TwitterIcon
@@ -406,7 +406,7 @@ let buttonGroup = (
            />
       </TwitterShareButton>
       <FacebookShareButton
-      url={"https://mkmdivy.github.io/pacdigitalstory/"+location.search}
+      url={"https://mkmdivy.github.io/pacdigitalstoryFR/"+location.search}
       title="The Economic Power of Africa's cities"
       className="Demo__some-network__share-button">
       <FacebookIcon 
@@ -464,7 +464,7 @@ return (
   </div>
   <div className={classes.Visualisation} >
     <div className={classes.KeyFigure__Md_Lg}>
-    Select an indicator
+    Sélectionner un indicateur
       <div className={classes.KeyFiguresWrapper}>      
           <Select 
           styles={styleVar}
@@ -498,18 +498,18 @@ return (
       <br/>
       </div>
       <div className={classes.Control}>
-      {separator(selectedData.reduce((e,f) => e + f.samplesize,0))} individuals from {selectedData.slice(1,5).reduce((e,f) => e + f.citysize,0)} cities.&nbsp;
+      {separator(selectedData.reduce((e,f) => e + f.samplesize,0))} individus issus de {selectedData.slice(1,5).reduce((e,f) => e + f.citysize,0)} villes.&nbsp;
       <div className={classes.ControlInfoS}>
-       <span className={classes.span}>More detail</span>
+       <span className={classes.span}>Plus de renseignements info</span>
         <i className={classes["material-icons"]}> info </i>
         <div className={classes.InfoTooltipS}>
-            Number of individuals used to calculate the indicator <br/>
+            Nombre d'individus utilisés pour calculer l'indicateur <br/>
             Rural: { separator(selectedData[0].samplesize) } <br/>
             10 000 - 50 000: { separator(selectedData[1].samplesize) } <br/>
             50 000 - 250 000: { separator(selectedData[2].samplesize) } <br/>
             250 000 - 1M: { separator(selectedData[3].samplesize) } <br/>
             1M+: { separator(selectedData[4].samplesize) } <br/> 
-            <br/> Number of cities used to calculate the indicator <br/>
+            <br/> Nombre de villes utilisées pour calculer l'indicateur <br/>
             10 000 - 50 000: { separator(selectedData[1].citysize) } <br/>
             50 000 - 250 000: { separator(selectedData[2].citysize) } <br/>
             250 000 - 1M: { separator(selectedData[3].citysize) } <br/>
@@ -517,16 +517,17 @@ return (
             </div>
           </div>      
         </div>
-        Respondents who live in different city size
+        Personnes interrogées qui vivent dans des villes de taille différente
     </div>
     <div className={classes.LineGraph}>
     {renderLineChart}
 
     </div>
-    Note: Data is unavailable for certain countries and years and is indicated in grey in the left-hand menu. Select "Africa" at the top of this menu to view the latest available aggregated data for all countries.
+    Note: Les données ne sont pas systématiquement disponibles pour tous les pays et années. Les pays et les années indisponibles apparaissent en gris. <br/>
+    Source: The Demographic and Health Surveys (DHS) Program.
     <div className={classes.socialgroupSM}>
       <TwitterShareButton
-        url={"https://mkmdivy.github.io/pacdigitalstory/"+location.search}
+        url={"https://mkmdivy.github.io/pacdigitalstoryFR/"+location.search}
         title={"The Economic Power of Africa's cities \n" + selectedOptionvar.label + ":" + queryparse.toString() + "\n" + "Explore more here:"}
         className="Demo__some-network__share-button">
         <TwitterIcon
@@ -536,7 +537,7 @@ return (
            />
       </TwitterShareButton>
       <FacebookShareButton
-      url={"https://mkmdivy.github.io/pacdigitalstory/"+location.search}
+      url={"https://mkmdivy.github.io/pacdigitalstoryFR/"+location.search}
       title="The Economic Power of Africa's cities"
       className="Demo__some-network__share-button">
       <FacebookIcon 
